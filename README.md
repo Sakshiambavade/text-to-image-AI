@@ -2,7 +2,7 @@
 
 This is a **Text-to-Image AI Generator** built with **Streamlit** and **Hugging Face's Inference API**. Enter a description, and the AI will generate an image based on the given text.  
 
-![Project Screenshot](screenshot.png)  
+![Project Screenshot](screencapture-text-to-image-ai-ojzihac2geayenn8ucev5a-streamlit-app-2025-03-31-16_12_32.png)  
 
 ---
 
